@@ -5,6 +5,7 @@
     <AssemblyVersion>1.0.0</AssemblyVersion>
     <AssemblyFileVersion>1.0.0</AssemblyFileVersion>
     <AssemblyInformationalVersion>1.0.0</AssemblyInformationalVersion>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="**\*.cs" />
