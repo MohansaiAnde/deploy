@@ -1,1 +1,0 @@
-@dotnet ef migrations remove --project ../src/Infrastructure --startup-project ../src/WebApi
