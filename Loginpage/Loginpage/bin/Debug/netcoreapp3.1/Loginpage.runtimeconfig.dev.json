@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\psolu\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\psolu\\.nuget\\packages"
-    ]
-  }
-}
