@@ -1,16 +1,9 @@
 using System.Reflection;
-using System.Runtime.InteropServices;
-
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-[assembly: AssemblyTitle("YourProject")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("YourCompany")]
-[assembly: AssemblyProduct("YourProduct")]
-[assembly: AssemblyCopyright("Copyright © 2024")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-[assembly: ComVisible(false)]
-[assembly: Guid("d3ac0cdd-1a3b-4f60-a9e8-2fdcbe82c48c")]
+using System.Runtime.CompilerServices;
+ 
+[assembly: AssemblyVersion("1.0.0")]
+[assembly: AssemblyFileVersion("1.0.0")]
+[assembly: AssemblyInformationalVersion("1.0.0")]
+[assembly: AssemblyTitle("Your Project Title")]
+[assembly: AssemblyDescription("Your Project Description")]
+[assembly: AssemblyCopyright("Your Project Copyright")]
