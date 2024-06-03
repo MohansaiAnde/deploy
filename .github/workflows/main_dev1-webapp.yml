@@ -54,4 +54,8 @@ jobs:
           app-name: 'dev1-webapp'
           slot-name: 'production'
           package: .
+<<<<<<< HEAD
           publish-profile: ${{ secrets.AzureAppService_PublishProfile_24637141f789439c9215c1418cf71e2a }}
+=======
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_410E6841AD6348BD978FDD5410CFE17B }}
+>>>>>>> a203403d7e6089bcbb12207167ec6a7bb14074cc
